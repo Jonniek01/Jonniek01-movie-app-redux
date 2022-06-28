@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "5a827fc759e1de3cc387",
+    "revision": "ed6674da1cb1401c5d91",
     "url": "/Jonniek01-movie-app-redux/static/css/main.fe623d00.chunk.css"
   },
   {
-    "revision": "5a827fc759e1de3cc387",
-    "url": "/Jonniek01-movie-app-redux/static/js/main.5a827fc7.chunk.js"
+    "revision": "ed6674da1cb1401c5d91",
+    "url": "/Jonniek01-movie-app-redux/static/js/main.ed6674da.chunk.js"
   },
   {
     "revision": "ad39ee43e5f1e39ec27e",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/Jonniek01-movie-app-redux/static/js/runtime~main.8a8ff556.js"
   },
   {
-    "revision": "43950a937e9667477f6c4f0cca84684b",
+    "revision": "dcc2a0da3a6b4769710a404d382155bb",
     "url": "/Jonniek01-movie-app-redux/index.html"
   }
 ];
