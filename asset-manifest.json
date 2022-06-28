@@ -1,15 +1,15 @@
 {
-  "main.css": "/movie-app-redux/static/css/main.fe623d00.chunk.css",
-  "main.js": "/movie-app-redux/static/js/main.5a827fc7.chunk.js",
-  "main.js.map": "/movie-app-redux/static/js/main.5a827fc7.chunk.js.map",
-  "static/js/1.ad39ee43.chunk.js": "/movie-app-redux/static/js/1.ad39ee43.chunk.js",
-  "static/js/1.ad39ee43.chunk.js.map": "/movie-app-redux/static/js/1.ad39ee43.chunk.js.map",
-  "static/js/2.080f45e5.chunk.js": "/movie-app-redux/static/js/2.080f45e5.chunk.js",
-  "static/js/2.080f45e5.chunk.js.map": "/movie-app-redux/static/js/2.080f45e5.chunk.js.map",
-  "runtime~main.js": "/movie-app-redux/static/js/runtime~main.07fd2bc0.js",
-  "runtime~main.js.map": "/movie-app-redux/static/js/runtime~main.07fd2bc0.js.map",
-  "static/css/main.fe623d00.chunk.css.map": "/movie-app-redux/static/css/main.fe623d00.chunk.css.map",
-  "index.html": "/movie-app-redux/index.html",
-  "precache-manifest.1dc328ea68cbe058a185ec53ed3dca27.js": "/movie-app-redux/precache-manifest.1dc328ea68cbe058a185ec53ed3dca27.js",
-  "service-worker.js": "/movie-app-redux/service-worker.js"
+  "main.css": "/Jonniek01-movie-app-redux/static/css/main.fe623d00.chunk.css",
+  "main.js": "/Jonniek01-movie-app-redux/static/js/main.5a827fc7.chunk.js",
+  "main.js.map": "/Jonniek01-movie-app-redux/static/js/main.5a827fc7.chunk.js.map",
+  "static/js/1.ad39ee43.chunk.js": "/Jonniek01-movie-app-redux/static/js/1.ad39ee43.chunk.js",
+  "static/js/1.ad39ee43.chunk.js.map": "/Jonniek01-movie-app-redux/static/js/1.ad39ee43.chunk.js.map",
+  "static/js/2.080f45e5.chunk.js": "/Jonniek01-movie-app-redux/static/js/2.080f45e5.chunk.js",
+  "static/js/2.080f45e5.chunk.js.map": "/Jonniek01-movie-app-redux/static/js/2.080f45e5.chunk.js.map",
+  "runtime~main.js": "/Jonniek01-movie-app-redux/static/js/runtime~main.8a8ff556.js",
+  "runtime~main.js.map": "/Jonniek01-movie-app-redux/static/js/runtime~main.8a8ff556.js.map",
+  "static/css/main.fe623d00.chunk.css.map": "/Jonniek01-movie-app-redux/static/css/main.fe623d00.chunk.css.map",
+  "index.html": "/Jonniek01-movie-app-redux/index.html",
+  "precache-manifest.8687fb0f11d62e1153a73c0fa8a4bc00.js": "/Jonniek01-movie-app-redux/precache-manifest.8687fb0f11d62e1153a73c0fa8a4bc00.js",
+  "service-worker.js": "/Jonniek01-movie-app-redux/service-worker.js"
 }

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/movie-app-redux/precache-manifest.1dc328ea68cbe058a185ec53ed3dca27.js"
+  "/Jonniek01-movie-app-redux/precache-manifest.8687fb0f11d62e1153a73c0fa8a4bc00.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/movie-app-redux/index.html", {
+workbox.routing.registerNavigationRoute("/Jonniek01-movie-app-redux/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
