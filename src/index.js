@@ -15,7 +15,7 @@ const root = createRoot(container);
 
 root.render(
   <React.StrictMode>
-    <BrowserRouter>
+    <BrowserRouter basename={window.location.pathname||''} >
       <Routes>
         <Route path="/" element={<App />}>
           <Route index element={<Discover />} />
