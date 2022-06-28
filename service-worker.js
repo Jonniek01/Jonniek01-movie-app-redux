@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Jonniek01-movie-app-redux/precache-manifest.489d7f777e2f28cc273486fafaa64362.js"
+  "/Jonniek01-movie-app-redux/precache-manifest.6d8272c8cccc78c08e343f57b4ed1b52.js"
 );
 
 workbox.clientsClaim();
