@@ -1,7 +1,7 @@
 {
   "main.css": "/Jonniek01-movie-app-redux/static/css/main.fe623d00.chunk.css",
-  "main.js": "/Jonniek01-movie-app-redux/static/js/main.88ca56fc.chunk.js",
-  "main.js.map": "/Jonniek01-movie-app-redux/static/js/main.88ca56fc.chunk.js.map",
+  "main.js": "/Jonniek01-movie-app-redux/static/js/main.c4303116.chunk.js",
+  "main.js.map": "/Jonniek01-movie-app-redux/static/js/main.c4303116.chunk.js.map",
   "static/js/1.ad39ee43.chunk.js": "/Jonniek01-movie-app-redux/static/js/1.ad39ee43.chunk.js",
   "static/js/1.ad39ee43.chunk.js.map": "/Jonniek01-movie-app-redux/static/js/1.ad39ee43.chunk.js.map",
   "static/js/2.080f45e5.chunk.js": "/Jonniek01-movie-app-redux/static/js/2.080f45e5.chunk.js",
@@ -10,6 +10,6 @@
   "runtime~main.js.map": "/Jonniek01-movie-app-redux/static/js/runtime~main.8a8ff556.js.map",
   "static/css/main.fe623d00.chunk.css.map": "/Jonniek01-movie-app-redux/static/css/main.fe623d00.chunk.css.map",
   "index.html": "/Jonniek01-movie-app-redux/index.html",
-  "precache-manifest.6d8272c8cccc78c08e343f57b4ed1b52.js": "/Jonniek01-movie-app-redux/precache-manifest.6d8272c8cccc78c08e343f57b4ed1b52.js",
+  "precache-manifest.42ee31300aebc2e453f860e856b011bd.js": "/Jonniek01-movie-app-redux/precache-manifest.42ee31300aebc2e453f860e856b011bd.js",
   "service-worker.js": "/Jonniek01-movie-app-redux/service-worker.js"
 }
